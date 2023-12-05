@@ -1,4 +1,11 @@
 Strad
 Tiamat
+<<<<<<< HEAD
 Lolth
 Vlaakith
+=======
+Ulgralath
+Demogorgon
+>>>>>>> aketza_gonzalez_rama
+Ulgralath
+Demogorgon
